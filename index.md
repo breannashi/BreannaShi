@@ -1,15 +1,24 @@
-## Welcome to GitHub Pages
+## Breanna Shi (She/Her)
+## Applied Mathematician, Computer scientist, Bioinformatician, Georgia Tech PhD Student
 
-You can use the [editor on GitHub](https://github.com/breannashi/BreannaShi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Greetings scholars, scientists, and all those who love to learn! I am Breanna Shi, a 21 year old scientist and applied mathematician. Right now, I am a second year PhD student in Bioinformatics at Georgia Tech with minors in Machine Learning and Higher Education. I am engaged in exciting research in the McGrath lab, where I am conducting computer vision research with Lake Malawi Cichlids. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests include Machine Learning, Modeling, Computational Biology, Biomathematics, and STEM education. I am currently looking for opportunities related to research collaborations, fellowships, teaching higher education, public speaking/STEM presentation, and mentorship.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I currently serve as the Graduate senate chair for the school of mathematics at Georgia Tech. As a female Hispanic scholar, I am particularly passionate celebrating diversity and increasing inclusion on campus. 
 
-```markdown
-Syntax highlighted code block
+Questions and comments are always welcome!
+
+### Education 
+
+### Research
+
+### Teaching 
+
+### Awards / Funding
+
+
 
 # Header 1
 ## Header 2
