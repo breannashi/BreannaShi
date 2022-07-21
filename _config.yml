@@ -1,2 +1,11 @@
-remote_theme:  academicpages/academicpages.github.io
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+
+theme: jekyll-theme-tactile
 
