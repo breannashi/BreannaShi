@@ -1,6 +1,6 @@
 ## Breanna Shi (She/Her)
 ## Applied Mathematician, Computer scientist, Bioinformatician, Georgia Tech PhD Student
-![](60785604_10217007561394310_2852356960311836672_n.jpg)
+
 
 Greetings scholars, scientists, and all those who love to learn! I am Breanna Shi, a 21 year old scientist and applied mathematician. Right now, I am a second year PhD student in Bioinformatics at Georgia Tech with minors in Machine Learning and Higher Education. I am engaged in exciting research in the McGrath lab, where I am conducting computer vision research with Lake Malawi Cichlids. 
 
@@ -12,6 +12,10 @@ I currently serve as the Graduate senate chair for the school of mathematics at 
 Questions and comments are always welcome!
 
 ### Education 
+- **Georgia Institute of Technology:*** Bioinformatics PhD, 2021-Present, Atlanta, GA. Minors in Machine learning and Higher Education, 4.0 current GPA.
+- **University of Minnesota:**  Bioinformatics MS, 2020-Present, Minneapolis, MN.
+- **University of Minnesota:** Mathematics MS, 2020-2021, Minneapolis, MN.
+- **Stetson University:** Mathematics Major, 2018-2020, Deland, FL. Graduated Summa Cum Laude, 3.9 GPA.
 
 ### Research
 
