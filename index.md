@@ -41,6 +41,19 @@ Applied the Homotopy Analysis Method and the Adomian Decomposition Method to app
 
 
 ### Teaching 
+- **University of Minnesota Mathematics Department:** Teaching Assistant, Spring 2021, Minneapolis, MN.
+Taught Linear Algebra and Differential Equations lectures twice a week. 
+Constructed and facilitated weekly quizzes and poll assessments.
+
+- **Minnesota Math Project:** Graduate Mentor, Spring 2021, Minneapolis, MN.
+Lead Female, minority undergraduate scientists in researching and presenting a project on the mathematics of machine learning. 
+Department of Mathematics Directed Reading Program: Graduate Mentor, Fall 2020, Minneapolis, MN.
+Lead weekly discussions on Biomathematics with a Female undergraduate scientist, preparing her to present at the Co-Present at the Continued Mathematics Conference 2020.    
+
+- **Women in Science and Engineering Graduate-Undergraduate Mentorship Program:** Graduate Mentor, Spring 2021, Minneapolis, MN. 
+Aided an early-career female undergraduate scientist build a network in the field of Data Science and apply for internship opportunities. 
+Stetson University Academic Success Center: Mathematics and Disability Services Tutor, 2018-Current, Deland, FL. 
+Polk State College Tutoring Center: Mathematics and Biology Tutor, 2017-2018, Winter Haven, FL.
 
 ### Awards / Funding
 
