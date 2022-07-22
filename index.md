@@ -13,11 +13,32 @@ Questions and comments are always welcome!
 
 ### Education 
 - **Georgia Institute of Technology:** Bioinformatics PhD, 2021-Present, Atlanta, GA. Minors in Machine learning and Higher Education, 4.0 current GPA.
+
 - **University of Minnesota:**  Bioinformatics MS, 2020-Present, Minneapolis, MN.
+
 - **University of Minnesota:** Mathematics MS, 2020-2021, Minneapolis, MN.
+
 - **Stetson University:** Mathematics Major, 2018-2020, Deland, FL. Graduated Summa Cum Laude, 3.9 GPA.
 
 ### Research
+- **Machine Learning and Bioinformatics:** The McGrath Laboratory, Georgia Institute of Technology, 2021-Present, Atlanta, GA.
+Implemented Computer Vision algorithms to mathematically characterize complex behaviors, such as cichlid aggression. 
+Developing a user-friendly cichlid behavior simulation which will increase accuracy and reproducibility in cichlid aggression experiments. 
+Bayesian Statistics and Bioinformatics:  The Noyes lab, 2020-present, University of Minnesota, MN.
+Analyzed and compared Microbiome, Mobilome (Mobile Genetic elements), and Resistome (Resistance Genes) data   from four studies of ruminants. 
+Constructed Bayesian networks to establish correlations between the microbiome and the presence of resistance genes. 
+
+- **Machine Learning and Chemistry:** National Renewable Energy Laboratory, 2021, Golden, CO. 
+Enhanced and Automated the Cryo-EM Protein Visualization pipeline using supervised learning techniques.
+ Trained a convolution neural network on various contaminated and uncontaminated Cryo-EM images, deriving efficient and accurate parameters that correctly identify individual proteins in a Cryo-EM image.
+
+- **Bio-Mathematics:** Dr. Fazal Abbas’s  Applied Mathematics Research Group, 2019-2020, Stetson University, FL.
+Created three models to predict the effect of Methyl-Mercury on fresh-water fish in Florida, supporting the theory of toxin bioaccumulation in the Florida aquatic system. 
+Used the data from our models to provide solutions for how to reduce toxin bioaccumulation. 
+
+- **Astrophysics and Differential Equations:** Dr. Fazal Abbas’s  Applied Mathematics Research Group, 2018-2019, Stetson University, FL. 
+Applied the Homotopy Analysis Method and the Adomian Decomposition Method to approximate the higher-order Lane-Emden equation.
+
 
 ### Teaching 
 
