@@ -12,7 +12,7 @@ I currently serve as the Graduate senate chair for the school of mathematics at 
 Questions and comments are always welcome!
 
 ### Education 
-- **Georgia Institute of Technology:*** Bioinformatics PhD, 2021-Present, Atlanta, GA. Minors in Machine learning and Higher Education, 4.0 current GPA.
+- **Georgia Institute of Technology:** Bioinformatics PhD, 2021-Present, Atlanta, GA. Minors in Machine learning and Higher Education, 4.0 current GPA.
 - **University of Minnesota:**  Bioinformatics MS, 2020-Present, Minneapolis, MN.
 - **University of Minnesota:** Mathematics MS, 2020-2021, Minneapolis, MN.
 - **Stetson University:** Mathematics Major, 2018-2020, Deland, FL. Graduated Summa Cum Laude, 3.9 GPA.
