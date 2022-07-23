@@ -65,27 +65,19 @@ Polk State College Tutoring Center: Mathematics and Biology Tutor, 2017-2018, Wi
 | The Career, Research, and Innovation Development Conference Bioscience Award    |  $1500 Travel-Grant Award given to the winner of the  Career, Research, and Innovation Development Conference Poster Competition in the Department of Biosciences.       | 2022  |     |
 | Georgia Tech Smithgall award    |    Merit-based fellowship awarded to high-achieving first-year bioinformatics PhD students attending Georgia Institute of Technology.     | 2021  |     |
 |  Graduate Education for Minorities Fellowship   | Merit-based fellowship offered by National laboratories to high-achieving minority PhD researchers.        | 2021  |     |
-|   Diversity of Views & Experience scholarship  |        | 2020  |     |
-|     |        | 2020  |     |
+|   Diversity of Views & Experience scholarship  | Merit-based fellowship offered to high-achieving first-year minority graduate students attending the University of Minnesota.       | 2020  |     |
+| Outstanding in Mathematics Honoree    |    Merit-based award annually given to the top three graduating seniors in mathematics.    | 2020  |     |
+| Honorable mention Undergraduate poster sessions Joint Math Meetings    |        | 2020  |     |
+| Phi Eta Sigma  inductee  |    Honor Society Member    | 2020  |     |
+|  Stetson University Dean’s Conference Grant   |  Merit-based award given by the Dean of Stetson University to high-achieving students to use for professional development.       | 2020  |     |
+| Joint Math Meeting Travel Grant    |    rant awarded to support student travel to the Joint Math Meeting based on student merit and contributions to the conference.    | 2020  |     |
+| Outstanding Undergraduate Poster sessions Joint Mathematics Meetings   |        | 2019  |     |
+|  Stetson University Dean’s Conference Grant   |        | 2019|     |
+|  Stetson University Dean’s Competition Grant   |        | 2019|     |
+|  Stetson Undergraduate Research Grant   |  Merit-based summer funding is provided to high achieving students who propose a research project.      | 2019|     |
+| Stetson Internship Grant    |        | 2019|     |
+|     |        | 2019|     |
 
-2020
-Diversity of Views & Experience scholarship
-Merit-based fellowship offered to high-achieving first-year minority graduate students attending the University of Minnesota.
-Outstanding Senior in Mathematics Honoree
-Merit-based award annually given to the top three graduating seniors in mathematics. 
-Honorable mention at the Undergraduate poster sessions 2020 Joint Math Meetings.
-Phi Eta Sigma, Honor Society Member
-Stetson University Dean’s Conference Grant
-Merit-based award given by the Dean of Stetson University to high-achieving students to use for professional development. 
-Joint Math Meeting Travel Grant
-Grant awarded to support student travel to the Joint Math Meeting based on student merit and contributions to the conference. 
-2019 
-Outstanding poster at the Undergraduate Poster sessions at the Joint Mathematics Meetings.
-Stetson University Dean’s Conference Grant
-Stetson University Dean’s Competition Grant
-Stetson Undergraduate Research Grant
-Merit-based summer funding is provided to high achieving students who propose a research project. 
-Stetson Internship Grant
 
 
 
