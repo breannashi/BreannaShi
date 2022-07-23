@@ -58,6 +58,7 @@ Polk State College Tutoring Center: Mathematics and Biology Tutor, 2017-2018, Wi
 ### Awards / Funding
 | Award     | Description | year     | website  |
 | :---        |    :----:   |     :----:    |  ---:|
+|      |     |     |   |
 |   GAANN Fellowship for Biological Sciences  |    U.S. Department of Education Merit-Based fellowship offered to PhD students seeking  research and teaching careers in the biological sciences.    | 2022  |     |
 |  DOD Graduate Fellowship for STEM Diversity   |    Merit-based fellowship offered by national agencies  to high-achieving minority PhD researchers.     | 2022  |     |
 |  Women and Mathematics Cohort   |  An annual program covering “the mathematics of Machine Learning” at the Institute for Advanced Study that encourages female mathematicians to form collaborative research relationships from undergraduates to emerita professors.      | 2022  |     |
@@ -66,12 +67,6 @@ Polk State College Tutoring Center: Mathematics and Biology Tutor, 2017-2018, Wi
 |  Graduate Education for Minorities Fellowship   | Merit-based fellowship offered by National laboratories to high-achieving minority PhD researchers.        | 2021  |     |
 |   Diversity of Views & Experience scholarship  |        | 2020  |     |
 |     |        | 2020  |     |
-
-
-
-
- 
-
 
 2020
 Diversity of Views & Experience scholarship
@@ -92,18 +87,7 @@ Stetson Undergraduate Research Grant
 Merit-based summer funding is provided to high achieving students who propose a research project. 
 Stetson Internship Grant
 
-Teaching Experience:
-| dxcdc  |   |   |   |   |   |   |   |   |   |
-|--------|---|---|---|---|---|---|---|---|---|
-| xdc dc |   |   |   |   |   |   |   |   |   |
-|        |   |   |   |   |   |   |   |   |   |
-|        |   |   |   |   |   |   |   |   |   |
-|        |   |   |   |   |   |   |   |   |   |
-|        |   |   |   |   |   |   |   |   |   |
-|        |   |   |   |   |   |   |   |   |   |
-|        |   |   |   |   |   |   |   |   |   |
-|        |   |   |   |   |   |   |   |   |   |
-|        |   |   |   |   |   |   |   |   |   |
+
 
 
 # Header 1
