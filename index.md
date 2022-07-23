@@ -56,27 +56,26 @@ Stetson University Academic Success Center: Mathematics and Disability Services 
 Polk State College Tutoring Center: Mathematics and Biology Tutor, 2017-2018, Winter Haven, FL.
 
 ### Awards / Funding
-| Award     | Description | year     | website  |
-| :---        |    :----:   |     :----:    |  ---:|
-|      |     |     |   |
-|   GAANN Fellowship for Biological Sciences  |    U.S. Department of Education Merit-Based fellowship offered to PhD students seeking  research and teaching careers in the biological sciences.    | 2022  |     |
-|  DOD Graduate Fellowship for STEM Diversity   |    Merit-based fellowship offered by national agencies  to high-achieving minority PhD researchers.     | 2022  |     |
-|  Women and Mathematics Cohort   |  An annual program covering “the mathematics of Machine Learning” at the Institute for Advanced Study that encourages female mathematicians to form collaborative research relationships from undergraduates to emerita professors.      | 2022  |     |
-| The Career, Research, and Innovation Development Conference Bioscience Award    |  $1500 Travel-Grant Award given to the winner of the  Career, Research, and Innovation Development Conference Poster Competition in the Department of Biosciences.       | 2022  |     |
-| Georgia Tech Smithgall award    |    Merit-based fellowship awarded to high-achieving first-year bioinformatics PhD students attending Georgia Institute of Technology.     | 2021  |     |
-|  Graduate Education for Minorities Fellowship   | Merit-based fellowship offered by National laboratories to high-achieving minority PhD researchers.        | 2021  |     |
-|   Diversity of Views & Experience scholarship  | Merit-based fellowship offered to high-achieving first-year minority graduate students attending the University of Minnesota.       | 2020  |     |
-| Outstanding in Mathematics Honoree    |    Merit-based award annually given to the top three graduating seniors in mathematics.    | 2020  |     |
-| Honorable mention Undergraduate poster sessions Joint Math Meetings    |        | 2020  |     |
-| Phi Eta Sigma  inductee  |    Honor Society Member    | 2020  |     |
-|  Stetson University Dean’s Conference Grant   |  Merit-based award given by the Dean of Stetson University to high-achieving students to use for professional development.       | 2020  |     |
-| Joint Math Meeting Travel Grant    |    rant awarded to support student travel to the Joint Math Meeting based on student merit and contributions to the conference.    | 2020  |     |
-| Outstanding Undergraduate Poster sessions Joint Mathematics Meetings   |        | 2019  |     |
-|  Stetson University Dean’s Conference Grant   |        | 2019|     |
-|  Stetson University Dean’s Competition Grant   |        | 2019|     |
-|  Stetson Undergraduate Research Grant   |  Merit-based summer funding is provided to high achieving students who propose a research project.      | 2019|     |
-| Stetson Internship Grant    |        | 2019|     |
-|     |        | 2019|     |
+| #### **Award**     |### **Awarding Institution** |#### **Year** | #### ***Description** |#### **Website**  |
+| :---        |    :----:   |     :----:    |   :----:    |  ---:|
+|   **GAANN Fellowship for Biological Sciences**  | U.S. Department of Education |  **2022** | Merit-Based fellowship offered to PhD students seeking  research and teaching careers in the biological sciences.    |     |
+|  **DOD Graduate Fellowship for STEM Diversity**   |  U.S. Department of Defense | **2022**|  Merit-based fellowship offered by national agencies  to high-achieving minority PhD researchers.   |     |
+|  **Women and Mathematics Cohort**   | Institute for Advance Study | **2022** | An annual program covering “the mathematics of Machine Learning” at the Institute for Advanced Study that encourages female mathematicians to form collaborative research relationships from undergraduates to emerita professors.           | |
+| **Career, Research, and Innovation Development Conference Bioscience Award**    |  Department of Biosciences | **2022**| $1500 Travel-Grant Award given to the winner of the  Career, Research, and Innovation Development Conference Poster Competition.       |     |
+| **Georgia Tech Smithgall award**    |  Georgia Institute of Technology | **2021**|  Merit-based fellowship awarded to high-achieving first-year bioinformatics PhD students attending Georgia Institute of Technology.     |     |
+|  **Graduate Education for Minorities Fellowship**   | The National GEM Consortuim| **2021**| Merit-based fellowship offered by National laboratories to high-achieving minority PhD researchers.        |     |
+|   **Diversity of Views & Experience scholarship**  | University of Minnesota | **2020** | Merit-based fellowship offered to high-achieving first-year minority graduate students attending the University of Minnesota.       |     |
+| **Outstanding in Mathematics Honoree**    |  Stetson University Department of Mathematics | **2020**|  Merit-based award annually given to the top three graduating seniors in mathematics.    |    |
+| **Honorable mention Undergraduate Poster**    | Joint Math Meetings | **2020** |        |     |
+| **Phi Eta Sigma  inductee**  | Stetson University | **2020** |   Honor Society Member    |     |
+|  **Dean’s Conference Grant**   | Stetson University | **2020**| Merit-based award given by the Dean of Stetson University to high-achieving students to use for professional development.       |     |
+| **Travel Grant**    |  Joint Math Meetings | **2020**  grant awarded to support student travel to the Joint Math Meeting based on student merit and contributions to the conference.    |     |
+| **Outstanding Undergraduate Poster**   | Joint Math Meetings       |**2019**  |     |    |
+|  **Dean’s Conference Grant**   |  Stetson University      | **2019**|     |   |  
+|  **Dean’s Competition Grant**   |    Stetson University    | **2019**|     |  |
+|  **Stetson Undergraduate Research Grant**   | Stetson University | **2019** | Merit-based summer funding is provided to high achieving students who propose a research project.      |     |
+| **Internship Grant**    | Stetson University | **2019**|    |     |
+
 
 
 
