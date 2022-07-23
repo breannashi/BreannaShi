@@ -6,6 +6,6 @@ relative_links:
 include:
   - CONTRIBUTING.md
   - index.md
-
+markdown: GFM
 theme: jekyll-theme-midnight
 
