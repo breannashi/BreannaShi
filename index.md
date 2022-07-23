@@ -28,9 +28,13 @@ Bayesian Statistics and Bioinformatics:  The Noyes lab, 2020-present, University
 Analyzed and compared Microbiome, Mobilome (Mobile Genetic elements), and Resistome (Resistance Genes) data   from four studies of ruminants. 
 Constructed Bayesian networks to establish correlations between the microbiome and the presence of resistance genes. 
 
-- **Machine Learning and Chemistry:** National Renewable Energy Laboratory, 2021, Golden, CO. 
+- **Machine Learning and Protienomics:** National Renewable Energy Laboratory, 2021, Golden, CO. 
 Enhanced and Automated the Cryo-EM Protein Visualization pipeline using supervised learning techniques.
  Trained a convolution neural network on various contaminated and uncontaminated Cryo-EM images, deriving efficient and accurate parameters that correctly identify individual proteins in a Cryo-EM image.
+
+- **Bayesian Statistics and Bioinformatics:**  The Noyes lab, 2020-present, University of Minnesota, MN.
+Analyzed and compared Microbiome, Mobilome (Mobile Genetic elements), and Resistome (Resistance Genes) data   from four studies of ruminants. 
+Constructed Bayesian networks to establish correlations between the microbiome and the presence of resistance genes. 
 
 - **Bio-Mathematics:** Dr. Fazal Abbas’s  Applied Mathematics Research Group, 2019-2020, Stetson University, FL.
 Created three models to predict the effect of Methyl-Mercury on fresh-water fish in Florida, supporting the theory of toxin bioaccumulation in the Florida aquatic system. 
@@ -58,23 +62,23 @@ Polk State College Tutoring Center: Mathematics and Biology Tutor, 2017-2018, Wi
 ### Awards / Funding
 | #### **Award**     |### **Awarding Institution** |#### **Year** | #### ***Description** |#### **Website**  |
 | :---        |    :----:   |     :----:    |   :----:    |  ---:|
-|   **GAANN Fellowship for Biological Sciences**  | U.S. Department of Education |  **2022** | Merit-Based fellowship offered to PhD students seeking  research and teaching careers in the biological sciences.    |     |
-|  **DOD Graduate Fellowship for STEM Diversity**   |  U.S. Department of Defense | **2022**|  Merit-based fellowship offered by national agencies  to high-achieving minority PhD researchers.   |     |
-|  **Women and Mathematics Cohort**   | Institute for Advance Study | **2022** | An annual program covering “the mathematics of Machine Learning” at the Institute for Advanced Study that encourages female mathematicians to form collaborative research relationships from undergraduates to emerita professors.           | |
-| **Career, Research, and Innovation Development Conference Bioscience Award**    |  Department of Biosciences | **2022**| $1500 Travel-Grant Award given to the winner of the  Career, Research, and Innovation Development Conference Poster Competition.       |     |
-| **Georgia Tech Smithgall award**    |  Georgia Institute of Technology | **2021**|  Merit-based fellowship awarded to high-achieving first-year bioinformatics PhD students attending Georgia Institute of Technology.     |     |
-|  **Graduate Education for Minorities Fellowship**   | The National GEM Consortuim| **2021**| Merit-based fellowship offered by National laboratories to high-achieving minority PhD researchers.        |     |
-|   **Diversity of Views & Experience scholarship**  | University of Minnesota | **2020** | Merit-based fellowship offered to high-achieving first-year minority graduate students attending the University of Minnesota.       |     |
-| **Outstanding in Mathematics Honoree**    |  Stetson University Department of Mathematics | **2020**|  Merit-based award annually given to the top three graduating seniors in mathematics.    |    |
-| **Honorable mention Undergraduate Poster**    | Joint Math Meetings | **2020** |        |     |
-| **Phi Eta Sigma  inductee**  | Stetson University | **2020** |   Honor Society Member    |     |
-|  **Dean’s Conference Grant**   | Stetson University | **2020**| Merit-based award given by the Dean of Stetson University to high-achieving students to use for professional development.       |     |
-| **Travel Grant**    |  Joint Math Meetings | **2020**  grant awarded to support student travel to the Joint Math Meeting based on student merit and contributions to the conference.    |     |
-| **Outstanding Undergraduate Poster**   | Joint Math Meetings       |**2019**  |     |    |
-|  **Dean’s Conference Grant**   |  Stetson University      | **2019**|     |   |  
-|  **Dean’s Competition Grant**   |    Stetson University    | **2019**|     |  |
-|  **Stetson Undergraduate Research Grant**   | Stetson University | **2019** | Merit-based summer funding is provided to high achieving students who propose a research project.      |     |
-| **Internship Grant**    | Stetson University | **2019**|    |     |
+|   **GAANN Fellowship for Biological Sciences**  | U.S. Department of Education |  **2022** | Merit-Based fellowship offered to PhD students seeking  research and teaching careers in the biological sciences.    | [**Learn more..**](https://www2.ed.gov/programs/gaann/index.html)    |
+|  **DOD Graduate Fellowship for STEM Diversity**   |  U.S. Department of Defense | **2022**|  Merit-based fellowship offered by national agencies  to high-achieving minority PhD researchers.   |   [**Learn more..**](https://stemfellowships.org)  |
+|  **Women and Mathematics Cohort**   | Institute for Advance Study | **2022** | An annual program covering “the mathematics of Machine Learning” at the Institute for Advanced Study that encourages female mathematicians to form collaborative research relationships from undergraduates to emerita professors.           |[**Learn more..**](https://www.ias.edu/math/wam/program-years/2022-program-women-and-mathematics) |
+| **Career, Research, and Innovation Development Conference Bioscience Award**    |  Department of Biosciences | **2022**| $1500 Travel-Grant Award given to the winner of the  Career, Research, and Innovation Development Conference Poster Competition.       |  [**Learn more..**](https://grad.gatech.edu/career-research-and-innovation-development-conference-cridc)   |
+| **Georgia Tech Smithgall award**    |  Georgia Institute of Technology | **2021**|  Merit-based fellowship awarded to high-achieving first-year bioinformatics PhD students attending Georgia Institute of Technology.     |  [**Learn more..**]()   |
+|  **Graduate Education for Minorities Fellowship**   | The National GEM Consortuim| **2021**| Merit-based fellowship offered by National laboratories to high-achieving minority PhD researchers.        |   [**Learn more..**](https://www.gemfellowship.org/gem-fellowship-program/)  |
+|   **Diversity of Views & Experience scholarship**  | University of Minnesota | **2020** | Merit-based fellowship offered to high-achieving first-year minority graduate students attending the University of Minnesota.       |  [**Learn more..**](https://grad.umn.edu/funding/program-requests-nominations/diversity-views-experience-fellowship-dove)   |
+| **Outstanding in Mathematics Honoree**    |  Stetson University Department of Mathematics | **2020**|  Merit-based award annually given to the top three graduating seniors in mathematics.    |  [**Learn more..**](https://www.stetson.edu/other/senior-awards/)  |
+| **Honorable mention Undergraduate Poster**    | Joint Math Meetings | **2020** |        |   [**See abstract 131 here..**](https://drive.google.com/file/d/1Q2EsVnqd7-mizp7xdiRlDOb_MMtwTXYl/view)  |
+| **Phi Eta Sigma  inductee**  | Stetson University | **2020** |  Those elected to membership include those who have a cumulative grade-point average of at least 3.5 on a 4.0 scale at the end of first year.   |   [**Learn more..**](https://catalog.stetson.edu/other-academic-opportunities/honorary-societies/)  |
+|  **Dean’s Conference Grant**   | Stetson University | **2020**| Merit-based award given by the Dean of Stetson University to high-achieving students to use for professional development.       |  [**Learn more..**](https://www.stetson.edu/artsci/home/research/deans-fund.php)   |
+| **Travel Grant**    |  Joint Math Meetings | **2020**  grant awarded to support student travel to the Joint Math Meeting based on student merit and contributions to the conference.    |  [**Learn more..**](http://www.ams.org/programs/travel-grants/undergrad-tg)   |
+| **Outstanding Undergraduate Poster**   | Joint Math Meetings       |**2019**  |     |  [**See number 85 here..**](https://www.maa.org/sites/default/files/Programs/Outstanding%20Posters%20JMM%202019_0.pdf)  |
+|  **Dean’s Conference Grant**   |  Stetson University      | **2019**|     | [**Learn more..**](https://www.stetson.edu/artsci/home/research/deans-fund.php)  |  
+|  **Dean’s Competition Grant**   |    Stetson University    | **2019**|     | [**Learn more..**](https://www.stetson.edu/artsci/home/research/deans-fund.php) |
+|  **Stetson Undergraduate Research Grant**   | Stetson University | **2019** | Merit-based summer funding is provided to high achieving students who propose a research project.      |   [**Learn more..**](https://www.stetson.edu/other/research/sure.php)  |
+| **Internship Grant**    | Stetson University | **2019**|    |  [**Learn more..**](https://www.stetson.edu/administration/career/internshiptravel-fund.php)   |
 
 
 
