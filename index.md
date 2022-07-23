@@ -1,5 +1,5 @@
-## Breanna Shi (She/Her)
-## Applied Mathematician, Computer scientist, Bioinformatician, Georgia Tech PhD Student
+# Breanna Shi (She/Her)
+# Applied Mathematician, Computer scientist, Bioinformatician, Georgia Tech PhD Student
 
 
 Greetings scholars, scientists, and all those who love to learn! I am Breanna Shi, a 21 year old scientist and applied mathematician. Right now, I am a second year PhD student in Bioinformatics at Georgia Tech with minors in Machine Learning and Higher Education. I am engaged in exciting research in the McGrath lab, where I am conducting computer vision research with Lake Malawi Cichlids. 
@@ -11,7 +11,7 @@ I currently serve as the Graduate senate chair for the school of mathematics at 
 
 Questions and comments are always welcome!
 
-### Education 
+## Education 
 - **Georgia Institute of Technology:** Bioinformatics PhD, 2021-Present, Atlanta, GA. Minors in Machine learning and Higher Education, 4.0 current GPA.
 
 - **University of Minnesota:**  Bioinformatics MS, 2020-Present, Minneapolis, MN.
@@ -20,7 +20,7 @@ Questions and comments are always welcome!
 
 - **Stetson University:** Mathematics Major, 2018-2020, Deland, FL. Graduated Summa Cum Laude, 3.9 GPA.
 
-### Research
+## Research
 - **Machine Learning and Bioinformatics:** The McGrath Laboratory, Georgia Institute of Technology, 2021-Present, Atlanta, GA.
 Implemented Computer Vision algorithms to mathematically characterize complex behaviors, such as cichlid aggression. 
 Developing a user-friendly cichlid behavior simulation which will increase accuracy and reproducibility in cichlid aggression experiments. 
@@ -44,7 +44,7 @@ Used the data from our models to provide solutions for how to reduce toxin bioac
 Applied the Homotopy Analysis Method and the Adomian Decomposition Method to approximate the higher-order Lane-Emden equation.
 
 
-### Teaching 
+## Teaching 
 - **University of Minnesota Mathematics Department:** Teaching Assistant, Spring 2021, Minneapolis, MN.
 Taught Linear Algebra and Differential Equations lectures twice a week. 
 Constructed and facilitated weekly quizzes and poll assessments.
@@ -59,8 +59,8 @@ Aided an early-career female undergraduate scientist build a network in the fiel
 Stetson University Academic Success Center: Mathematics and Disability Services Tutor, 2018-Current, Deland, FL. 
 Polk State College Tutoring Center: Mathematics and Biology Tutor, 2017-2018, Winter Haven, FL.
 
-### Awards / Funding
-| #### **Award**     |### **Awarding Institution** |#### **Year** | #### ***Description** |#### **Website**  |
+## Awards / Funding
+| **Award**     | **Awarding Institution** | **Year** |  **Description** | **Website**  |
 | :---        |    :----:   |     :----:    |   :----:    |  ---:|
 |   **GAANN Fellowship for Biological Sciences**  | U.S. Department of Education |  **2022** | Merit-Based fellowship offered to PhD students seeking  research and teaching careers in the biological sciences.    | [**Learn more..**](https://www2.ed.gov/programs/gaann/index.html)    |
 |  **DOD Graduate Fellowship for STEM Diversity**   |  U.S. Department of Defense | **2022**|  Merit-based fellowship offered by national agencies  to high-achieving minority PhD researchers.   |   [**Learn more..**](https://stemfellowships.org)  |
@@ -70,15 +70,15 @@ Polk State College Tutoring Center: Mathematics and Biology Tutor, 2017-2018, Wi
 |  **Graduate Education for Minorities Fellowship**   | The National GEM Consortuim| **2021**| Merit-based fellowship offered by National laboratories to high-achieving minority PhD researchers.        |   [**Learn more..**](https://www.gemfellowship.org/gem-fellowship-program/)  |
 |   **Diversity of Views & Experience scholarship**  | University of Minnesota | **2020** | Merit-based fellowship offered to high-achieving first-year minority graduate students attending the University of Minnesota.       |  [**Learn more..**](https://grad.umn.edu/funding/program-requests-nominations/diversity-views-experience-fellowship-dove)   |
 | **Outstanding in Mathematics Honoree**    |  Stetson University Department of Mathematics | **2020**|  Merit-based award annually given to the top three graduating seniors in mathematics.    |  [**Learn more..**](https://www.stetson.edu/other/senior-awards/)  |
-| **Honorable mention Undergraduate Poster**    | Joint Math Meetings | **2020** |        |   [**See abstract 131 here..**](https://drive.google.com/file/d/1Q2EsVnqd7-mizp7xdiRlDOb_MMtwTXYl/view)  |
+| **Honorable mention Undergraduate Poster**    | Joint Math Meetings | **2020** |    Award given to top-ranking students in the Undergraduate poster session.  |   [**See abstract 131 here..**](https://drive.google.com/file/d/1Q2EsVnqd7-mizp7xdiRlDOb_MMtwTXYl/view)  |
 | **Phi Eta Sigma  inductee**  | Stetson University | **2020** |  Those elected to membership include those who have a cumulative grade-point average of at least 3.5 on a 4.0 scale at the end of first year.   |   [**Learn more..**](https://catalog.stetson.edu/other-academic-opportunities/honorary-societies/)  |
 |  **Dean’s Conference Grant**   | Stetson University | **2020**| Merit-based award given by the Dean of Stetson University to high-achieving students to use for professional development.       |  [**Learn more..**](https://www.stetson.edu/artsci/home/research/deans-fund.php)   |
-| **Travel Grant**    |  Joint Math Meetings | **2020**  grant awarded to support student travel to the Joint Math Meeting based on student merit and contributions to the conference.    |  [**Learn more..**](http://www.ams.org/programs/travel-grants/undergrad-tg)   |
-| **Outstanding Undergraduate Poster**   | Joint Math Meetings       |**2019**  |     |  [**See number 85 here..**](https://www.maa.org/sites/default/files/Programs/Outstanding%20Posters%20JMM%202019_0.pdf)  |
-|  **Dean’s Conference Grant**   |  Stetson University      | **2019**|     | [**Learn more..**](https://www.stetson.edu/artsci/home/research/deans-fund.php)  |  
-|  **Dean’s Competition Grant**   |    Stetson University    | **2019**|     | [**Learn more..**](https://www.stetson.edu/artsci/home/research/deans-fund.php) |
+| **Travel Grant**    |  Joint Math Meetings | **2020** | grant awarded to support student travel to the Joint Math Meeting based on student merit and contributions to the conference.    |  [**Learn more..**](http://www.ams.org/programs/travel-grants/undergrad-tg)   |
+| **Outstanding Undergraduate Poster**   | Joint Math Meetings       |**2019**  | Award given to top-ranking students in the Undergraduate poster session.    |  [**See number 85 here..**](https://www.maa.org/sites/default/files/Programs/Outstanding%20Posters%20JMM%202019_0.pdf)  |
+|  **Dean’s Conference Grant**   |  Stetson University      | **2019**| Merit-based award given by the Dean of Stetson University to high-achieving students to use for professional development   | [**Learn more..**](https://www.stetson.edu/artsci/home/research/deans-fund.php)  |  
+|  **Dean’s Competition Grant**   |    Stetson University    | **2019**|   Merit-based award given by the Dean of Stetson University to high-achieving students to use for professional development  | [**Learn more..**](https://www.stetson.edu/artsci/home/research/deans-fund.php) |
 |  **Stetson Undergraduate Research Grant**   | Stetson University | **2019** | Merit-based summer funding is provided to high achieving students who propose a research project.      |   [**Learn more..**](https://www.stetson.edu/other/research/sure.php)  |
-| **Internship Grant**    | Stetson University | **2019**|    |  [**Learn more..**](https://www.stetson.edu/administration/career/internshiptravel-fund.php)   |
+| **Internship Grant**    | Stetson University | **2019**|   Merit-based award given by Stetson University to high-achieving students to use to support a summer internship|  [**Learn more..**](https://www.stetson.edu/administration/career/internshiptravel-fund.php)   |
 
 
 
