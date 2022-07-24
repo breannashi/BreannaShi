@@ -10,7 +10,7 @@ markdown: GFM
 theme: jekyll-theme-midnight
 title: Breanna Shi
 description: Applied Mathematician, Computer scientist, Bioinformatician, Georgia Tech PhD Student
-name: "my-website"
+---
 navbar:
   title: "My Website"
   type: inverse
@@ -38,3 +38,4 @@ navbar:
   right:
     - icon: fa-question fa-lg
       href: https://example.com
+---
