@@ -1,6 +1,6 @@
 
 
-![](./Pics/professional_image.jpg =200x300)
+![](/Pics/professional_image.jpg =200x300)
 
 Greetings scholars, scientists, and all those who love to learn! I am Breanna Shi, a 21 year old scientist and applied mathematician. Right now, I am a second year PhD student in Bioinformatics at Georgia Tech with minors in Machine Learning and Higher Education. I am engaged in exciting research in the McGrath lab, where I am conducting computer vision research with Lake Malawi Cichlids. 
 
