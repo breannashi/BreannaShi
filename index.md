@@ -1,7 +1,7 @@
 
 
 <div style="display:inline-block;vertical-align:top;"> 
-<img src="/Pics/professional_image.jpg" width="200" height="300">
+<img src="./Pics/professional_image.jpg" width="200" height="300">
 </div>
 <div>
 <p>
