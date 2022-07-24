@@ -1,5 +1,5 @@
 
-
+<div>
 <div style="display:inline-block;vertical-align:top;"> 
 <img src="./Pics/professional_image.jpg" width="200" height="300">
 </div>
@@ -13,7 +13,7 @@ My research interests include Machine Learning, Modeling, Computational Biology,
 I currently serve as the Graduate senate chair for the school of mathematics at Georgia Tech. As a female Hispanic scholar, I am particularly passionate celebrating diversity and increasing inclusion on campus. 
 </p>
 </div>
-
+</div>
 
 
 
