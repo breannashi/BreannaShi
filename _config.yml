@@ -8,6 +8,8 @@ include:
   - index.md
 markdown: GFM
 theme: jekyll-theme-midnight
+  features:
+    - navigation.tabs
 title: Breanna Shi
 description: Applied Mathematician, Computer scientist, Bioinformatician, Georgia Tech PhD Student
 nav:
